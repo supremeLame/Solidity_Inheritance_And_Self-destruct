@@ -1,0 +1,1 @@
+# Solidity_Inheritance_And_Self-destruct
